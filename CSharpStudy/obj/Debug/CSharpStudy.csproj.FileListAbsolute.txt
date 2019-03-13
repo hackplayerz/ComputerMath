@@ -5,3 +5,10 @@ C:\Users\gomdo\OneDrive\문서\새 폴더\CSharpStudy\obj\Debug\CSharpStudy.cspr
 C:\Users\gomdo\OneDrive\문서\새 폴더\CSharpStudy\obj\Debug\CSharpStudy.csproj.CoreCompileInputs.cache
 C:\Users\gomdo\OneDrive\문서\새 폴더\CSharpStudy\obj\Debug\CSharpStudy.exe
 C:\Users\gomdo\OneDrive\문서\새 폴더\CSharpStudy\obj\Debug\CSharpStudy.pdb
+C:\Users\gomdo\OneDrive\문서\Github\ComputerMath\CSharpStudy\bin\Debug\CSharpStudy.exe.config
+C:\Users\gomdo\OneDrive\문서\Github\ComputerMath\CSharpStudy\bin\Debug\CSharpStudy.exe
+C:\Users\gomdo\OneDrive\문서\Github\ComputerMath\CSharpStudy\bin\Debug\CSharpStudy.pdb
+C:\Users\gomdo\OneDrive\문서\Github\ComputerMath\CSharpStudy\obj\Debug\CSharpStudy.csprojAssemblyReference.cache
+C:\Users\gomdo\OneDrive\문서\Github\ComputerMath\CSharpStudy\obj\Debug\CSharpStudy.csproj.CoreCompileInputs.cache
+C:\Users\gomdo\OneDrive\문서\Github\ComputerMath\CSharpStudy\obj\Debug\CSharpStudy.exe
+C:\Users\gomdo\OneDrive\문서\Github\ComputerMath\CSharpStudy\obj\Debug\CSharpStudy.pdb
